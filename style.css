@@ -1,11 +1,15 @@
 body{
     font-family: 'Noto Sans', sans-serif;
+    margin: 0%;
 }
 span{
     color: blue;
 }
 section{
     display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
 }
 .link-button{
     text-decoration: none;
@@ -17,7 +21,7 @@ section{
 }
 .half-width{
     width:80%;
-    padding-left: 7%;
+    padding-left: 4%;
     padding-top: 3%;
 }
 .half-width img{
