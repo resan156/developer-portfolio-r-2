@@ -1,0 +1,25 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+span{
+    color: blue;
+}
+section{
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    font-weight: 900;
+    color: white;
+    background-image: linear-gradient(gray, orange);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.half-width{
+    width:80%;
+    padding-left: 7%;
+    padding-top: 3%;
+}
+.half-width img{
+    width: 80%;
+}
